@@ -6,8 +6,8 @@ This is a personal project that cames when I started to learn Japanese. In addit
 
 ### Running
 
--DevMode: `npm run dev`
--Creating distribution package: `npm run electronBuilder`
+-DevMode: `npm run dev`<br/>
+-Creating distribution package: `npm run electronBuilder`<br/>
 <sub>\*set isDev constant</sub>
 
 # Screenshots
