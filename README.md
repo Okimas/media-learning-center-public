@@ -21,6 +21,12 @@ This is a personal project that cames when I started to learn Japanese. In addit
     <img src="src/assets/images/screenshot-6.png" width="45%"/>
 </p>
 
+### Running
+
+DevMode: `npm run dev`
+Creating distribution package: `npm run electronBuilder`
+<small>\* set isDev constant</small>
+
 # Complete Windows Software
 
-More information e Download `Soon as possible`
+More information e download `Soon as possible`
