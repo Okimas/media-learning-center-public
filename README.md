@@ -4,6 +4,12 @@ This is a personal project that cames when I started to learn Japanese. In addit
 
 `react` `electron` `electron-builder` `node` `worker_threads` `non-blocking` `learn japanese`
 
+### Running
+
+-DevMode: `npm run dev`
+-Creating distribution package: `npm run electronBuilder`
+<sub>\*set isDev constant</sub>
+
 # Screenshots
 
 <p align="center">
@@ -20,12 +26,6 @@ This is a personal project that cames when I started to learn Japanese. In addit
     <img src="src/assets/images/screenshot-5.png" width="45%"/>
     <img src="src/assets/images/screenshot-6.png" width="45%"/>
 </p>
-
-### Running
-
-DevMode: `npm run dev`
-Creating distribution package: `npm run electronBuilder`
-<small>\* set isDev constant</small>
 
 # Complete Windows Software
 
